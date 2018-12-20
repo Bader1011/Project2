@@ -17,3 +17,7 @@ technology that I used:
 - CSS
 - HTML
 
+
+wireframe:
+
+https://wireframe.cc/U93oEF
