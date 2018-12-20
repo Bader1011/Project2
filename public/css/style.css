@@ -1,0 +1,60 @@
+body {
+
+    background-color:lightcyan;
+    align-content: center;
+    margin: 0 auto;
+    align-items: center;
+    margin-left: 10px;
+
+}
+nav{
+
+    background-color: lightblue;
+   
+}
+
+  /*
+  When creating your CSS selector,
+  change "brown" to something of your choosing
+  */
+  .waves-effect.waves-brown .waves-ripple {
+    /* The alpha value allows the text and background color
+    of the button to still show through. */
+     background-color: rgba(121, 85, 72, 0.65);
+   }
+
+
+*{
+
+
+   
+    border: 1px solide black;
+    align-items: center;
+    
+}
+img{
+
+    
+    width: 250px;
+    height: 200px;
+
+}
+.foodImg{
+
+position: fixed;
+
+padding-left: 300px;
+}
+.row{
+
+    display: inline-block;
+    background-color: white;
+    margin-left: 20px;
+
+}
+.card{
+
+    display: inline-block;
+    background-color: bisque;
+
+}
